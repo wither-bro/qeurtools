@@ -1,6 +1,6 @@
 const libraries = {
     three: "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js",
-    bridge: "https://your-github-link.com/bridge.js" // пример
+    bridge: "https://qeurtools/bridge.js" // пример
 };
 
 async function installLibraries() {
